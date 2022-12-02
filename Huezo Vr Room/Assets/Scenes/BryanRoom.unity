@@ -1379,10 +1379,10 @@ MonoBehaviour:
   m_DirectionalAnchorRotationAction:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Directional Anchor Rotation
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: e17b18c7-af84-4945-9eef-8ff4980f835b
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -2596,10 +2596,10 @@ MonoBehaviour:
   m_DirectionalAnchorRotationAction:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Directional Anchor Rotation
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: 9e8a7cfe-cfb1-4d9f-a0aa-388aa7e64450
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
